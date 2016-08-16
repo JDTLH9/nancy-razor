@@ -1,0 +1,15 @@
+c:\users\bassj\documents\visual studio 2015\Projects\nancy-razor\nancy-razor.tests\bin\Debug\nancy-razor.tests.dll
+c:\users\bassj\documents\visual studio 2015\Projects\nancy-razor\nancy-razor.tests\bin\Debug\nancy-razor.tests.pdb
+c:\users\bassj\documents\visual studio 2015\Projects\nancy-razor\nancy-razor.tests\bin\Debug\FluentAssertions.Core.dll
+c:\users\bassj\documents\visual studio 2015\Projects\nancy-razor\nancy-razor.tests\bin\Debug\FluentAssertions.dll
+c:\users\bassj\documents\visual studio 2015\Projects\nancy-razor\nancy-razor.tests\bin\Debug\nunit.framework.dll
+c:\users\bassj\documents\visual studio 2015\Projects\nancy-razor\nancy-razor.tests\bin\Debug\Ploeh.AutoFixture.dll
+c:\users\bassj\documents\visual studio 2015\Projects\nancy-razor\nancy-razor.tests\bin\Debug\FluentAssertions.pdb
+c:\users\bassj\documents\visual studio 2015\Projects\nancy-razor\nancy-razor.tests\bin\Debug\FluentAssertions.xml
+c:\users\bassj\documents\visual studio 2015\Projects\nancy-razor\nancy-razor.tests\bin\Debug\FluentAssertions.Core.pdb
+c:\users\bassj\documents\visual studio 2015\Projects\nancy-razor\nancy-razor.tests\bin\Debug\FluentAssertions.Core.xml
+c:\users\bassj\documents\visual studio 2015\Projects\nancy-razor\nancy-razor.tests\bin\Debug\nunit.framework.xml
+c:\users\bassj\documents\visual studio 2015\Projects\nancy-razor\nancy-razor.tests\bin\Debug\Ploeh.AutoFixture.xml
+c:\users\bassj\documents\visual studio 2015\Projects\nancy-razor\nancy-razor.tests\obj\Debug\nancy-razor.tests.csprojResolveAssemblyReference.cache
+c:\users\bassj\documents\visual studio 2015\Projects\nancy-razor\nancy-razor.tests\obj\Debug\nancy-razor.tests.dll
+c:\users\bassj\documents\visual studio 2015\Projects\nancy-razor\nancy-razor.tests\obj\Debug\nancy-razor.tests.pdb
