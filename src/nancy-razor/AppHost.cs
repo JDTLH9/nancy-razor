@@ -6,13 +6,9 @@ using Topshelf;
 
 namespace nancy_razor
 {
-    public interface IAppHost
+    public static class AppHost
     {
-    }
-
-    public class AppHost : IAppHost
-    {
-        public AppHost()
+        public static void Bootstrap()
         {
             const string url = @"http://localhost:5060/nancy/";
 
